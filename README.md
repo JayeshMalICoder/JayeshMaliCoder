@@ -109,7 +109,7 @@
 
 ## 🏆 Achievements
 
-- 🧠 Solved **300+ DSA Problems**
+- 🧠 Solved **150+ DSA Problems**
 - ⭐ Strong understanding of OOP, Collections, and Core Java
 - 📜 Tata Forage Data Visualization Certification
 - 📜 HackerRank Java Certification
