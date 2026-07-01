@@ -43,7 +43,7 @@
 
 📧 Email: **jayeshmali224@gmail.com**
 
-📄 Resume: **https://drive.google.com/drive/folders/1dVFZ_6pU1MdyB1T4Au-WgkId8hNEjamx**
+📄 Resume: **https://drive.google.com/file/d/11Aqcj-HJIYRJislXgH9aq-qr38NrHhEf/view?usp=sharing**
 
 ---
 
